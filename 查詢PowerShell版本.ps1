@@ -1,1 +1,1 @@
-
+get-host | select 'version'
